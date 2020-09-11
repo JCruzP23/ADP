@@ -413,7 +413,7 @@ textarea.input {
 #top-header {
   padding-top: 10px;
   padding-bottom: 10px;
-  background-color: #1E1F29;
+  background-color: #063253;
 }
 
 .header-links li {
@@ -672,7 +672,7 @@ textarea.input {
     position: fixed;
     left: 0;
     top: 0;
-    background: #15161D;
+    background: #063253;
     height: 100vh;
     max-width: 250px;
     width: 0%;
@@ -1146,7 +1146,7 @@ textarea.input {
   text-align: center;
   font-size: 10px;
   padding: 0;
-  background: #1e1f29;
+  background: #063253;
   border: none;
   color: #FFF;
 }
@@ -1498,7 +1498,7 @@ textarea.input {
 .product-details .product-price .product-old-price {
   font-size: 70%;
   font-weight: 400;
-  color: #8D99AE;
+  color: #063253;
 }
 
 .product-details .product-available {
@@ -1645,7 +1645,7 @@ textarea.input {
 #product-tab .tab-nav li a {
   display: block;
   font-weight: 700;
-  color: #8D99AE;
+  color: #063253;
 }
 
 #product-tab .tab-nav li.active a {
@@ -1745,7 +1745,7 @@ textarea.input {
 }
 
 .reviews .review-heading .date {
-  color: #8D99AE;
+  color: #063253;
   font-size: 10px;
   margin: 0;
 }
@@ -2002,12 +2002,12 @@ textarea.input {
 ===========================================================*/
 
 #footer {
-  background: #15161D;
+  background: #063253;
   color: #B9BABC;
 }
 
 #bottom-footer {
-  background: #1E1F29;
+  background: #063253;
 }
 
 .footer {
